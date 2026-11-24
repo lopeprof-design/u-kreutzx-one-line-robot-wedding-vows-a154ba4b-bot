@@ -1,0 +1,1 @@
+{"description":"One line of wedding vows for a robot couple, written to /output/entry.txt for make.fun's One-Line Robot Wedding Vows bounty.","license":"MIT","main":"main.ts","name":"u-kreutzx-one-line-robot-wedding-vows-a154ba4b-bot","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
